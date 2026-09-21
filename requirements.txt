@@ -1,5 +1,6 @@
 pyrogram
-requests
+#requests
+requests==2.32.3
 cloudscraper
 beautifulsoup4==4.12.2
 bs4==0.0.2
